@@ -106,3 +106,12 @@ button:hover {
     font-weight: bold;
 }
 
+footer {
+    margin-top: 50px;
+    font-size: 10px;
+}
+
+#footer {
+    font-weight: 200;
+    margin-bottom: 10px;
+}
